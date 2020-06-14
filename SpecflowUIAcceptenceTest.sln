@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowUIAcceptenceTest", "SpecflowUIAcceptenceTest.csproj", "{84A5A5DA-0C05-481A-B89B-759DB34ECA4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5878475D-2EF7-4C88-B25D-131A159AAC45}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A5A5DA-0C05-481A-B89B-759DB34ECA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A5A5DA-0C05-481A-B89B-759DB34ECA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A5A5DA-0C05-481A-B89B-759DB34ECA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A5A5DA-0C05-481A-B89B-759DB34ECA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B09D4A0-20FC-4CE1-AC5E-CBAA2540CA06}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿2020-06-14T12:18:22.3521016+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-06-14T12:18:22.3530984+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.31 in Framework clr40 in x86 mode execution started
+2020-06-14T12:18:22.3530984+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Chapel\source\repos\SpecflowUnitTestProject3\packages\SpecRun.Runner.3.2.31\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-06-14T12:18:22.4298912+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Chapel\source\repos\SpecflowUnitTestProject3\bin\Debug\SpecflowUnitTestProject3.dll
+2020-06-14T12:18:22.4298912+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Chapel\source\repos\SpecflowUnitTestProject3\TestResults" (default)
+2020-06-14T12:18:22.4308896+01:00;VSTestExecutionThread;Info;Profile: 
+2020-06-14T12:18:22.5485739+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\Chapel\source\repos\SpecflowUnitTestProject3\TestResults\Unnamed project__2020-06-14T121822.log
+2020-06-14T12:18:22.5645320+01:00;Thread#13;Info;Checking activation
+2020-06-14T12:18:23.1350065+01:00;Thread#13;Error;No tests executed (activation needed)
+2020-06-14T12:18:23.1609385+01:00:Total: 0
+2020-06-14T12:18:23.1629328+01:00:Succeeded: 0
+2020-06-14T12:18:23.1639282+01:00:Ignored: 0
+2020-06-14T12:18:23.1649270+01:00:Pending: 0
+2020-06-14T12:18:23.1649270+01:00:Skipped: 0
+2020-06-14T12:18:23.1649270+01:00:Failed: 0
+2020-06-14T12:18:23.1749002+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
